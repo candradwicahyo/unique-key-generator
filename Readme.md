@@ -10,8 +10,8 @@ parameter 36 pada fungsi toString() berfungsi untuk mengkonversikan angka menjad
 
 pelajari mengenai fungsi toString() di website bawah ini
 
-[x] [W3Schools](https://www.w3schools.com/jsref/jsref_tostring_number.asp)
-[x] [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString)
+* [W3Schools](https://www.w3schools.com/jsref/jsref_tostring_number.asp)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString)
 
 ## dibuat dengan berikut
 
